@@ -1,0 +1,112 @@
+{
+    "msgdb": {
+        "isError": 0,
+        "data": {
+            "success": true,
+            "object": [
+                {
+                    "msg_type": 2,
+                    "msg_date": "2017-08-31",
+                    "msg_srv_id": 20170831202421,
+                    "msg_title": "Lorem ipsum dolor",
+                    "msg_category": 1,
+                    "msg_collab_id": 25,
+                    "msg_state": 0,
+                    "msg_text": "",
+                    "msg_survey_questions": [
+                        {
+                            "quest_srv_id": 831202421,
+                            "quest_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                            "quest_type": 1,
+                            "quest_max_multiselect": 1,
+                            "quest_min_multiselect": 1,
+                            "quest_options": [
+                                {
+                                    "quest_opt_srv_id": 1,
+                                    "quest_opt_text": "ipsum dolor sit amet 1"
+                                },
+                                {
+                                    "quest_opt_srv_id": 2,
+                                    "quest_opt_text": "ipsum dolor sit amet 2"
+                                },
+                                {
+                                    "quest_opt_srv_id": 3,
+                                    "quest_opt_text": "ipsum dolor sit amet 3"
+                                },
+                                {
+                                    "quest_opt_srv_id": 4,
+                                    "quest_opt_text": "ipsum dolor sit amet 4"
+                                },
+                                {
+                                    "quest_opt_srv_id": 5,
+                                    "quest_opt_text": "ipsum dolor sit amet 5"
+                                },
+                                {
+                                    "quest_opt_srv_id": 6,
+                                    "quest_opt_text": "ipsum dolor sit amet 6"
+                                },
+                                {
+                                    "quest_opt_srv_id": 7,
+                                    "quest_opt_text": "ipsum dolor sit amet 7"
+                                },
+                                {
+                                    "quest_opt_srv_id": 8,
+                                    "quest_opt_text": "ipsum dolor sit amet 8"
+                                }
+                            ]
+                        },
+                        {
+                            "quest_srv_id": 831202422,
+                            "quest_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                            "quest_type": 2,
+                            "quest_max_multiselect": 3,
+                            "quest_min_multiselect": 2,
+                            "quest_options": [
+                                {
+                                    "quest_opt_srv_id": 1,
+                                    "quest_opt_text": "ipsum dolor sit amet  4"
+                                },
+                                {
+                                    "quest_opt_srv_id": 2,
+                                    "quest_opt_text": "ipsum dolor sit amet 5"
+                                },
+                                {
+                                    "quest_opt_srv_id": 3,
+                                    "quest_opt_text": "ipsum dolor sit amet 6"
+                                },
+                                {
+                                    "quest_opt_srv_id": 4,
+                                    "quest_opt_text": "ipsum dolor sit amet 7"
+                                }
+                            ]
+                        },
+                        {
+                            "quest_srv_id": 831202423,
+                            "quest_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                            "quest_type": 3,
+                            "quest_max_multiselect": 1,
+                            "quest_min_multiselect": 1
+                        },
+                        {
+                            "quest_srv_id": 831202424,
+                            "quest_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                            "quest_type": 4,
+                            "quest_max_multiselect": 1,
+                            "quest_min_multiselect": 1
+                        }
+                    ]
+                },
+                {
+                    "msg_type": 1,
+                    "msg_date": "2017-08-15",
+                    "msg_srv_id": 20170831202422,
+                    "msg_title": "Lorem ipsum dolor",
+                    "msg_category": 3,
+                    "msg_collab_id": 25,
+                    "msg_state": 0,
+                    "msg_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                }
+            ]
+        }
+    }
+}
