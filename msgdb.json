@@ -10,7 +10,7 @@
                     "msg_srv_id": 20170831202421,
                     "msg_title": "Lorem ipsum dolor",
                     "msg_category": 1,
-                    "msg_collab_id": 25,
+                    "msg_collab_id": 203,
                     "msg_state": 0,
                     "msg_text": "",
                     "msg_survey_questions": [
@@ -102,7 +102,7 @@
                     "msg_srv_id": 20170831202422,
                     "msg_title": "Lorem ipsum dolor",
                     "msg_category": 3,
-                    "msg_collab_id": 25,
+                    "msg_collab_id": 203,
                     "msg_state": 0,
                     "msg_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
                 }
